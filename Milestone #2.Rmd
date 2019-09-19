@@ -1,0 +1,14 @@
+---
+title: 'Milestone #2'
+author: "Dominic Skinnion"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Final Project #1: Nicolas Cage: an In-Depth Analysis by Claire Fridkin
+
+  This project really intrigued me. As a Nicolas Cage meme-enthusiast, I could not resist checking out this project. The first thing that really strikes me is the depth of data that was collected for this project. In the first part of the project "Movie Textual Analysis," there are ten movies from which Claire analyzed the scripts. For each script, she tallied the utterances of each word in the script and plotted the 10 most used negative and positive words. She also made a bar plot with the distribution of negative and positive word scores with their number of utterences and a plot of runtime vs. the positivity or negativity of expression. I really like the use of colors that she chose for this plot because it shows the range of expression. In the second part of her analysis, she divides all of his movies by their MPAA ratings, and evaluates variables such as number of movies, box office revenue, release date, critic scores, and average word sentiment. Again, her use of colors really stands out as a pro to this project. If I had to pick one thing that I would change, I think the average word sentiment by MPAA rating plot would be better served as something other than a boxplot, because as she notes, there were only 10 movies used for the 3 plots, which seems a little low (However, she acknowledges this in her caption). Overall, there are not many cons for me to describe. She did a really great job, and the plots' colors made them very easy to interpret.
